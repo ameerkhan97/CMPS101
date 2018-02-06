@@ -1,0 +1,20 @@
+#------------------------------------------------------------------------------
+# README
+# Ameer Khan
+# ammukhan
+# CS101 PA3
+#------------------------------------------------------------------------------
+
+Sparse.java -- Takes two command line arguments giving the names of an input file and an output file.
+
+Matrix.java -- Matrix List ADT
+
+List.java -- Integer List ADT
+
+MatrixTest.java -- A test client for the Matrix ADT. 
+
+ListTest.java -- A test client for the List ADT.
+
+Makefile -- Creates an executable java file called Sparse.
+
+README -- Description of each file.

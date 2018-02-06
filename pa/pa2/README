@@ -1,0 +1,18 @@
+#------------------------------------------------------------------------------
+# README
+# Ameer Khan
+# ammukhan
+# CS101 PA2
+#------------------------------------------------------------------------------
+
+List.c -- Integer List ADT
+
+List.h -- Header file for List
+
+ListClient.c -- A test client for the List ADT.
+
+Lex.c -- Takes two command line arguments giving the names of an input file and an output file.
+
+Makefile -- Creates an executable C file called Lex.
+
+README -- Description of each file.
